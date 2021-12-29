@@ -1,0 +1,29 @@
+{
+    "header":[
+        "id",
+        "name",
+        "location"
+    ],
+  "users": [
+    {
+      "id": 1,
+      "name": "roy",
+      "location": "india"
+    },
+    {
+      "id": 2,
+      "name": "sam",
+      "location": "wales"
+    },
+    {
+      "name": "Duy",
+      "location": "Vietnamese",
+      "id": 3
+    },
+    {
+      "name": "Thanh",
+      "location": "Vietnamese",
+      "id": 4
+    }
+  ]
+}
